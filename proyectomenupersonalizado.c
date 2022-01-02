@@ -11,6 +11,8 @@ int main(int argc, char *argv[]) {
 	printf("\nPulse 1 para su primera frase");
 	printf("\nPulse 2 para su segunda frase");
 	printf("\nPulse 3 para su tercera frase\n");
+	printf("-----------------------------------\n");
+    printf("-----------------------------------\n");
 	int opcion;
 	scanf("%i",&opcion);
 	
